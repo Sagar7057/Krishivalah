@@ -15,6 +15,7 @@ After entering app we can have access to dashboard. Dashboard provide access to 
 
 ### Weather Forecast
 Detail weather of surrounding will be available in Weather Forecast Page.
+
 ![image](https://user-images.githubusercontent.com/106653594/230713875-72cf38ec-2852-4a59-a636-51af12b870c3.png)
 
 ### Profile
