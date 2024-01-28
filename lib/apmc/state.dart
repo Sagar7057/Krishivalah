@@ -276,8 +276,7 @@ const Map<String, List<String>> _stateDistrictMap = {
       'Shimoga',
       'Tumkur',
       'Udupi'
-    ],
-    'Kerala': [
+    ],    'Kerala': [
       'Alappuzha',
       'Alleppey',
       'Ernakulam',
